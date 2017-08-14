@@ -6,7 +6,7 @@ Will Larson's article and modified to work with scikit-learn.
 
 ## Usage
 
-Modify the main() of main.py to fit raining standards:
+Modify the main() of main.py to fit training standards:
 
 ```
 generations = 5  # Number of times to evolve the population.
@@ -134,7 +134,7 @@ Network #4 Loss: 0.229264038112
 ## Built With
 
 * [NumPy](http://www.numpy.org/) - The matrix framework used
-* [scikit-learn](http://scikit-learn.org/stable/) - framework testing against
+* [scikit-learn](http://scikit-learn.org/stable/) - backend neural network framework
 
 ## Inspired by
 * [Will Larson](https://lethain.com/genetic-algorithms-cool-name-damn-simple/)
